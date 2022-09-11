@@ -1,0 +1,17 @@
+.accordion{
+    background-color: rgb(241, 239, 239);
+    outline: none;
+    border: 0px;
+    width: 100%;
+    padding: 7px;
+    font-size: 20px;
+    opacity: 0.7;
+    text-align: left;
+}
+.accordion:hover{
+    background-color: rgb(201, 198, 198);
+}
+.accordion_para{
+    display: none;
+    overflow: hidden;
+}
